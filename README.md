@@ -14,8 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/nodejs-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<h3 align="center">🛠 Tools 🛠</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=java&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-004088?style=for-the-badge&logo=javascript&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/node.js-ECD53F?style=for-the-badge&logo=Node.js&logoColor=5FA04E" />&nbsp
+  <img src="https://img.shields.io/badge/spring-FFFFFF?style=for-the-badge&logo=spring&logoColor=6DB33F" />&nbsp
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=scodeda&show_icons=true&theme=radical" alt="[scodeda's GitHub stats]" />
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scodeda&show_icons=true&theme=radical)
