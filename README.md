@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there  👋
 
 <!--
 **scodeda/scodeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">🛠 Tools 🛠</h3>
+<h3 align="center">🛠 Tech Stack 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-006699?style=for-the-badge&logo=java&logoColor=ED8106" />&nbsp
   <img src="https://img.shields.io/badge/javascript-004088?style=for-the-badge&logo=javascript&logoColor=61DAFB" />&nbsp
@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=scodeda&show_icons=true&theme=radical" alt="[scodeda's GitHub stats]" />
 </div>
+
 
